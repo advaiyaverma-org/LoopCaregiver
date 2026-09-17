@@ -4,7 +4,7 @@
 // CAREGIVER_APP_BUNDLE_IDENTIFIER = com.myname.LoopCaregiver
 
 // Customize this to change the app name displayed
-MAIN_APP_DISPLAY_NAME = Loop Caregiver
+MAIN_APP_DISPLAY_NAME = Advaiya Caregiver
 
 // Features
 SWIFT_ACTIVE_COMPILATION_CONDITIONS = $(inherited) SIMULATORS_ENABLED //DEBUG_FEATURES_ENABLED
